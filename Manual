@@ -1,4 +1,3 @@
-
 OpenVPN - це відкрите програмне забезпечення, яке забезпечує можливість створення приватних віртуальних приватних мереж (VPN) через шифрування та безпечний тунельний зв'язок через незахищені мережі, такі як Інтернет. OpenVPN підтримує як міжсистемне (site-to-site) VPN, так і з'єднання "клієнт-сервер".
 Основні особливості OpenVPN включають:
 
@@ -9,3 +8,16 @@ OpenVPN - це відкрите програмне забезпечення, я�
 5. Спільнота та підтримка: OpenVPN має велику спільноту користувачів та активно розвивається. Існують різні джерела допомоги, включаючи документацію, форуми та інші ресурси.
 
 OpenVPN є одним з найпопулярніших і надійних засобів для створення VPN-з'єднань, і його можна використовувати для різних цілей, від забезпечення безпеки мережі до обходу обмежень мережі та забезпечення конфіденційності в Інтернеті.
+
+******************************************************************************************************************************************************************************************************************************************************************************
+
+OpenVPN is an open-source software that provides the ability to create private virtual private networks (VPNs) using encryption and secure tunneling over unsecured networks such as the Internet. OpenVPN supports both site-to-site VPN connections and client-to-server connections.
+The main features of OpenVPN include:
+
+1. Cross-platform compatibility: OpenVPN is supported on many popular operating systems, including Linux, Windows, macOS, FreeBSD, and others.
+2. Traffic encryption: OpenVPN uses various cryptographic protocols to ensure the confidentiality and integrity of data transmitted over a VPN connection.
+3. Advanced security settings: OpenVPN has various security settings, including user authentication, access restrictions, and other security features.
+4. Configuration flexibility: OpenVPN provides flexibility in setting up connections, allowing you to customize various settings such as encryption protocols, ports, traffic routing, and more.
+5. Community and support: OpenVPN has a large and growing community of users. There are various sources of help, including documentation, forums, and other resources.
+
+OpenVPN is one of the most popular and reliable tools for creating VPN connections, and it can be used for a variety of purposes, from securing your network to bypassing network restrictions and ensuring online privacy.
